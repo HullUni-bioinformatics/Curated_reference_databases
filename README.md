@@ -1,6 +1,7 @@
 # Curated_reference_databases
 
-This repository contains the complete description of how we produced the curated reference databases for the studies in Evolutionary and Environmental Genomics Group (@EvoHull)
+This repository contains the complete description of how we produced the curated reference databases for the studies in Evolutionary and Environmental Genomics Group ([@EvoHull](https://twitter.com/EVOHULL))
+
 
 Currently, we have completed the curated reference databases of mitochondrial __12S__ and __Cytb__ including European freshwater fish, amphibians, birds, reptiles and mammals.
 
@@ -14,20 +15,24 @@ __Cytb__
 
 
 __12S__
-- European freshwater fish by Jianlong Li (GiHub ID: JoeJianlongLi https://github.com/JoeJianlongLi) and Christoph Hahn
+- European freshwater fish by Jianlong Li `GiHub ID` ([JoeJianlongLi](https://github.com/JoeJianlongLi)) and Christoph Hahn `GiHub ID` ([chrishah](https://github.com/chrishah))
 
-- amphibians by Lynsey R. Harper (GiHub ID: lrharper1 https://github.com/lrharper1) 
-- birds
-- reptiles 
-- mammals 
+- amphibians by Lynsey R. Harper `GiHub ID` ([lrharper1](https://github.com/lrharper1)) 
+
+- birds by Lynsey R. Harper `GiHub ID` ([lrharper1](https://github.com/lrharper1)) 
+
+- reptiles by Lynsey R. Harper `GiHub ID` ([lrharper1](https://github.com/lrharper1)) 
+
+- mammals by Lynsey R. Harper `GiHub ID` ([lrharper1](https://github.com/lrharper1)) 
 
 
-Work your way through the notebooks in the individual directories in the following order:
+#Work your way through the notebooks in the individual directories in the following order:
 
-1-fetch-and-clean
-2-nr
-3-SATIVA
-4-post_SATIVA
+- 0-convert fast
+- 1-fetch-and-clean
+- 2-nr
+-- 3-SATIVA
+- 4-post_SATIVA
 
 Here the publications have used the curated reference databases in this repository
 
