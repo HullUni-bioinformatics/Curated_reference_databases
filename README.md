@@ -5,7 +5,7 @@ This repository contains the complete description of how we produced the curated
 
 Currently, we have completed the curated reference databases of mitochondrial `12S `and `Cytb` including European freshwater fish, UK amphibians, UK birds, UK reptiles and UK mammals.
 
-##Contents
+## Contents
 
 #The contributors for each database as below:
 
@@ -34,7 +34,16 @@ __12S__
 - SATIVA
 - post_SATIVA
 
-Here the publications have used the curated reference databases in this repository
+In the individual directories listed above of each database, you can find the Jupyiter notebooks `*ipynb` ([for example](https://github.com/HullUni-bioinformatics/Curated_reference_databases/blob/master/12S_Amphibians/fetch_clean_align_tree/Amphib_align_clipping.ipynb)) which you can use them for reproducible analysis 
+
+__Final clean database__
+
+You can find the final clean database which has been labeled by `*SATIVA_cleaned*.gb ([for example](https://github.com/HullUni-bioinformatics/Curated_reference_databases/blob/master/12S_Amphibians/12S_UKamphibians_SATIVA_cleaned.gb)) in each database
+
+
+
+## Publications 
+#Here the publications have used the curated reference databases in this repository
 
 - Hänfling, B., Lawson Handley, L., Read, D.S., Hahn, C., Li, J., Nichols, P., ... Winfield, I.J. (2016) Environmental DNA metabarcoding of lake fish communities reflects long-term data from established survey methods. _Molecular Ecology_, 25, 3101-3119. ([DOI](https://doi.org/10.1111/mec.13660)) ([GiHub](https://github.com/HullUni-bioinformatics/Haenfling_et_al_2016))  
 
