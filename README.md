@@ -3,7 +3,7 @@
 This repository contains the complete description of how we produced the curated reference databases for the studies in Evolutionary and Environmental Genomics Group ([@EvoHull](https://twitter.com/EVOHULL))
 
 
-Currently, we have completed the curated reference databases of mitochondrial __12S__ and __Cytb__ including European freshwater fish, amphibians, birds, reptiles and mammals.
+Currently, we have completed the curated reference databases of mitochondrial __12S__ and __Cytb__ including European freshwater fish, UK amphibians, UK birds, UK reptiles and UK mammals.
 
 ##Contents
 
@@ -17,13 +17,13 @@ __Cytb__
 __12S__
 - European freshwater fish by Jianlong Li `GiHub ID` ([JoeJianlongLi](https://github.com/JoeJianlongLi)) and Christoph Hahn `GiHub ID` ([chrishah](https://github.com/chrishah))
 
-- amphibians by Lynsey R. Harper `GiHub ID` ([lrharper1](https://github.com/lrharper1)) 
+- UK amphibians by Lynsey R. Harper `GiHub ID` ([lrharper1](https://github.com/lrharper1)) 
 
-- birds by Lynsey R. Harper `GiHub ID` ([lrharper1](https://github.com/lrharper1)) 
+- UK birds by Lynsey R. Harper `GiHub ID` ([lrharper1](https://github.com/lrharper1)) 
 
-- reptiles by Lynsey R. Harper `GiHub ID` ([lrharper1](https://github.com/lrharper1)) 
+- UK reptiles by Lynsey R. Harper `GiHub ID` ([lrharper1](https://github.com/lrharper1)) 
 
-- mammals by Lynsey R. Harper `GiHub ID` ([lrharper1](https://github.com/lrharper1)) 
+- UK mammals by Lynsey R. Harper `GiHub ID` ([lrharper1](https://github.com/lrharper1)) 
 
 
 #Work your way through the notebooks in the individual directories in the following order:
