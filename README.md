@@ -34,7 +34,6 @@ __12S__
 - SATIVA
 - post_SATIVA
 
-In the individual directory listed above of each database, you can find the Jupyiter notebooks `*.ipynb` ([for example](https://github.com/HullUni-bioinformatics/Curated_reference_databases/blob/master/12S_Amphibians/fetch_clean_align_tree/Amphib_align_clipping.ipynb)) which you can use them for reproducible analysis 
 
 - __Final clean database__
 
@@ -43,7 +42,9 @@ You can find the final clean database which has been labeled by `*SATIVA_cleaned
 
 ## Setting up the environment
 
-To facilitate full reproducibility of our analyses we provide Jupyter notebooks illustrating our workflow in this repository.
+To facilitate full reproducibility of our analyses we provide `Jupyter notebooks` illustrating our workflow in this repository.
+
+In the individual directory listed above of each database, you can find the Jupyter notebooks `*.ipynb` ([for example](https://github.com/HullUni-bioinformatics/Curated_reference_databases/blob/master/12S_Amphibians/fetch_clean_align_tree/Amphib_align_clipping.ipynb)) which you can use them for reproducible analysis 
 
 You need the [metaBEAT](https://github.com/HullUni-bioinformatics/metaBEAT) pipeline, which relies on a range of open bioinformatics tools, which we have wrapped up in a self contained docker image which includes all necessary dependencies [here](https://hub.docker.com/r/chrishah/metabeat/).
 
