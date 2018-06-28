@@ -6,11 +6,11 @@ Currently, we have completed the curated reference databases of mitochondrial __
 
 ##Contents
 
-__The contributors for each database as below:__
+#The contributors for each database as below:
 
 __Cytb__
 
-- European freshwater fish by Christoph Hahn GiHub ID ([chrishah](https://github.com/chrishah))
+- European freshwater fish by Christoph Hahn `GiHub ID` ([chrishah](https://github.com/chrishah))
 
 
 __12S__
