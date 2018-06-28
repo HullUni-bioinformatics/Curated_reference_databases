@@ -1,0 +1,12 @@
+;WARNING: The revised taxon name suggested here is not necessarily the one that has priority in nomenclature. 
+;Our suggestion should only be taken as indicative of an affiliation to the same group, whose correct name must be determined 
+;in an additional step according to the specific rules of nomenclature that apply to the studied organisms.
+;
+;SeqID	MislabeledLevel	OriginalLabel	ProposedLabel	Confidence	OriginalTaxonomyPath	ProposedTaxonomyPath	PerRankConfidence
+EU075178.1	Order	Pleuronectiformes	Perciformes	0.553	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;Platichthys;Platichthys flesus	Eukaryota;Chordata;Actinopteri;Perciformes;Gasterosteidae;Pungitius;Pungitius pungitius	0.999;0.999;0.987;0.553;0.242;0.228;0.228
+AJ002633.1	Order	Gadiformes	Perciformes	0.282	Eukaryota;Chordata;Actinopteri;Gadiformes;Lotidae;Lota;Lota lota	Eukaryota;Chordata;Actinopteri;Perciformes;Percidae;Sander;Sander lucioperca	0.999;0.999;0.979;0.282;0.276;0.225;0.225
+JQ231114.1	Genus	Hypophthalmichthys	Ctenopharyngodon	1.000	Eukaryota;Chordata;Actinopteri;Cypriniformes;Cyprinidae;Hypophthalmichthys;Hypophthalmichthys molitrix	Eukaryota;Chordata;Actinopteri;Cypriniformes;Cyprinidae;Ctenopharyngodon;Ctenopharyngodon idella	1.000;1.000;1.000;1.000;1.000;1.000;1.000
+KJ135626.1	Genus	Pseudorasbora	Cyprinus	0.625	Eukaryota;Chordata;Actinopteri;Cypriniformes;Cyprinidae;Pseudorasbora;Pseudorasbora parva	Eukaryota;Chordata;Actinopteri;Cypriniformes;Cyprinidae;Cyprinus;Cyprinus carpio	1.000;1.000;0.625;0.625;0.625;0.625;0.625
+Y12671.1	Species	Rhodeus sericeus	Rhodeus amarus	0.998	Eukaryota;Chordata;Actinopteri;Cypriniformes;Cyprinidae;Rhodeus;Rhodeus sericeus	Eukaryota;Chordata;Actinopteri;Cypriniformes;Cyprinidae;Rhodeus;Rhodeus amarus	1.000;1.000;1.000;1.000;1.000;1.000;0.998
+KJ746953.1	Species	Hypophthalmichthys molitrix	Hypophthalmichthys nobilis	0.962	Eukaryota;Chordata;Actinopteri;Cypriniformes;Cyprinidae;Hypophthalmichthys;Hypophthalmichthys molitrix	Eukaryota;Chordata;Actinopteri;Cypriniformes;Cyprinidae;Hypophthalmichthys;Hypophthalmichthys nobilis	1.000;1.000;1.000;1.000;1.000;1.000;0.962
+KC292943.1	Species	Hypophthalmichthys nobilis	Hypophthalmichthys molitrix	0.624	Eukaryota;Chordata;Actinopteri;Cypriniformes;Cyprinidae;Hypophthalmichthys;Hypophthalmichthys nobilis	Eukaryota;Chordata;Actinopteri;Cypriniformes;Cyprinidae;Hypophthalmichthys;Hypophthalmichthys molitrix	0.999;0.999;0.999;0.999;0.999;0.980;0.624
