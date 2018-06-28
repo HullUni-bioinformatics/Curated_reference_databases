@@ -1,0 +1,142 @@
+SATIVA v0.9-55-g0cbb090, released on 2016-06-28. Last version: https://github.com/amkozlov/sativa 
+By A.Kozlov and J.Zhang, the Exelixis Lab. Based on RAxML 8.2.3 by A.Stamatakis.
+
+SATIVA was called as follows:
+
+./sativa/sativa.py -s alignment.phy -t tax_for_SATIVA.tax -x zoo -n CytB -o ./ -T 5 -v
+
+Mislabels search is running with the following parameters:
+ Alignment:                        alignment.phy
+ Taxonomy:                         tax_for_SATIVA.tax
+ Output directory:                 /home/working/media/chrishah/STORAGE/metabarcoding/PHYLOGENETIC_PLACEMENT/Lake_fish/CytB/Reference_DB/3-SATIVA
+ Job name / output files prefix:   CytB
+ Model of rate heterogeneity:      AUTO
+ Confidence cut-off:               0.000000
+ Number of threads:                5
+
+*** STEP 1: Building the reference tree using provided alignment and taxonomic annotations ***
+
+=> Loading taxonomy from file: tax_for_SATIVA.tax ...
+
+==> Loading reference alignment from file: alignment.phy ...
+
+Guessing input format: not fasta
+Guessing input format: not phylip_relaxed
+===> Validating taxonomy and alignment ...
+
+NOTE: Following sequences are identical: AB094607.1, AB094609.1, AB094608.1
+NOTE: Following sequences are identical: HM117883.1, HM117889.1
+NOTE: Following sequences are identical: KM874545.1, KM874544.1
+NOTE: Following sequences are identical: GU227767.1, GU227770.1, GU227772.1
+NOTE: Following sequences are identical: KF784839.1, KF784810.1
+NOTE: Following sequences are identical: AB852584.1, AB852588.1
+NOTE: Following sequences are identical: HM049965.1, JX025363.1
+NOTE: Following sequences are identical: GU227742.1, GU227755.1, GU227747.1
+NOTE: Following sequences are identical: GU991385.1, JN412514.1
+NOTE: Following sequences are identical: GU135512.1, JX183535.1
+NOTE: Following sequences are identical: HM167950.1, JX974521.1
+NOTE: Following sequences are identical: EF455489.1, KU761855.1
+NOTE: Following sequences are identical: KM874566.1, KM874570.1
+NOTE: Following sequences are identical: KM874560.1, KM874561.1, KM874563.1
+NOTE: Following sequences are identical: EF525391.1, EF525396.1
+NOTE: Following sequences are identical: HM000036.1, JN412532.1
+NOTE: Following sequences are identical: KC465920.1, AY331019.1
+NOTE: Following sequences are identical: GU135545.1, GU135542.1
+NOTE: Following sequences are identical: JF798881.1, JF798880.1
+NOTE: Following sequences are identical: KF985670.1, KF985679.1, KF985673.1
+NOTE: Following sequences are identical: KJ564253.1, KJ564243.1
+NOTE: Following sequences are identical: DQ288268.1, JX960813.1
+NOTE: Following sequences are identical: AY426567.1, AY426563.1
+NOTE: Following sequences are identical: KT279180.1, KT279182.1
+NOTE: Following sequences are identical: HM117899.1, HM117898.1
+NOTE: Following sequences are identical: AJ428497.1, AJ245839.1
+NOTE: Following sequences are identical: EU444659.1, EU444663.1
+NOTE: Following sequences are identical: EU444625.1, EU444634.1
+NOTE: Following sequences are identical: KJ729077.1, KJ679504.1
+NOTE: Following sequences are identical: KJ605186.1, KJ605187.1
+NOTE: Following sequences are identical: KT203378.1, KT203376.1, AY497446.1, AY497447.1
+NOTE: Following sequences are identical: JN190466.1, JN190467.1
+NOTE: Following sequences are identical: JN190461.1, JN190470.1
+NOTE: Following sequences are identical: AB368704.1, AB368703.1
+NOTE: Following sequences are identical: KM874541.1, KM874537.1
+NOTE: Following sequences are identical: EF525400.1, EF525398.1
+NOTE: Following sequences are identical: AY191565.1, KR003441.2
+NOTE: Following sequences are identical: AY509827.1, JQ652365.1
+NOTE: Following sequences are identical: EF427617.1, EU223996.1, KJ564262.1
+NOTE: Following sequences are identical: KC238569.1, GU135602.1
+NOTE: Following sequences are identical: KC465919.1, KC465923.1
+NOTE: Following sequences are identical: GU991394.1, GU991386.1
+NOTE: Following sequences are identical: AY828962.1, KJ513207.1
+NOTE: Following sequences are identical: KT279198.1, KT279196.1
+NOTE: Following sequences are identical: EU444660.1, EU444626.1
+NOTE: Following sequences are identical: KM874565.1, KM874564.1
+NOTE: Following sequences are identical: AJ252791.1, AF421801.1
+NOTE: Following sequences are identical: AB094611.1, AB094612.1
+NOTE: Following sequences are identical: KJ605198.1, KJ605201.1, EU444612.1, KJ605197.1
+NOTE: Following sequences are identical: HM117891.1, HM117890.1
+NOTE: Following sequences are identical: AB852596.1, AB852586.1
+NOTE: Following sequences are identical: HM167946.1, HM167941.1
+
+NOTE: Found 62 sequence duplicates
+====> Building a multifurcating tree from taxonomy with 1760 seqs ...
+
+Total nodes in resulting tree: 1760
+=====> Building the reference alignment ...
+
+======> Saving the outgroup for later re-rooting ...
+
+Outgroup for rooting was saved to: /home/working/media/chrishah/STORAGE/metabarcoding/PHYLOGENETIC_PLACEMENT/Lake_fish/CytB/Reference_DB/3-SATIVA/sativa/tmp/CytB_1473205651285/CytB_outgr.tre, outgroup size: 35
+=======> Resolving multifurcation: choosing the best topology from 1 independent RAxML runs ...
+
+
+Reducing the alignment: 
+
+/home/working/media/chrishah/STORAGE/metabarcoding/PHYLOGENETIC_PLACEMENT/Lake_fish/CytB/Reference_DB/3-SATIVA/sativa/raxml//run_raxml.sh -w /home/working/media/chrishah/STORAGE/metabarcoding/PHYLOGENETIC_PLACEMENT/Lake_fish/CytB/Reference_DB/3-SATIVA/sativa/tmp/CytB_1473205651285 -T 5 -f c -s /home/working/media/chrishah/STORAGE/metabarcoding/PHYLOGENETIC_PLACEMENT/Lake_fish/CytB/Reference_DB/3-SATIVA/sativa/tmp/CytB_1473205651285/CytB_matrix.afa --no-dup-check -m GTRCAT -n reduce --verbose -p 13332
+
+
+Constrained ML inference: 
+
+/home/working/media/chrishah/STORAGE/metabarcoding/PHYLOGENETIC_PLACEMENT/Lake_fish/CytB/Reference_DB/3-SATIVA/sativa/raxml//run_raxml.sh -w /home/working/media/chrishah/STORAGE/metabarcoding/PHYLOGENETIC_PLACEMENT/Lake_fish/CytB/Reference_DB/3-SATIVA/sativa/tmp/CytB_1473205651285 -T 5 -s /home/working/media/chrishah/STORAGE/metabarcoding/PHYLOGENETIC_PLACEMENT/Lake_fish/CytB/Reference_DB/3-SATIVA/sativa/tmp/CytB_1473205651285/CytB_matrix.afa -g /home/working/media/chrishah/STORAGE/metabarcoding/PHYLOGENETIC_PLACEMENT/Lake_fish/CytB/Reference_DB/3-SATIVA/sativa/tmp/CytB_1473205651285/CytB_mfu.tre --no-seq-check -N 1 -m GTRCAT -n mfresolv_CytB --verbose -p 326
+
+
+CAT-based logLH of the reference tree: -53919.981955
+
+========> Calling RAxML-EPA to obtain branch labels ...
+
+/home/working/media/chrishah/STORAGE/metabarcoding/PHYLOGENETIC_PLACEMENT/Lake_fish/CytB/Reference_DB/3-SATIVA/sativa/raxml//run_raxml.sh -w /home/working/media/chrishah/STORAGE/metabarcoding/PHYLOGENETIC_PLACEMENT/Lake_fish/CytB/Reference_DB/3-SATIVA/sativa/tmp/CytB_1473205651285 -T 5 -s /home/working/media/chrishah/STORAGE/metabarcoding/PHYLOGENETIC_PLACEMENT/Lake_fish/CytB/Reference_DB/3-SATIVA/sativa/tmp/CytB_1473205651285/CytB_lblq.fa -t /home/working/media/chrishah/STORAGE/metabarcoding/PHYLOGENETIC_PLACEMENT/Lake_fish/CytB/Reference_DB/3-SATIVA/sativa/tmp/CytB_1473205651285/CytB_bfu.tre --no-seq-check -f y --epa-accumulated-threshold 0.999 -G 0.284090909091 -R /home/working/media/chrishah/STORAGE/metabarcoding/PHYLOGENETIC_PLACEMENT/Lake_fish/CytB/Reference_DB/3-SATIVA/sativa/tmp/CytB_1473205651285/CytB.opt -m GTRCAT -n epalbl_CytB --verbose -p 26407
+
+=========> Post-processing the EPA tree (re-rooting, taxonomic labeling etc.) ...
+
+
+==========> Checking branch labels ...
+shared rank names before training: set(['Eukaryota', 'Chordata'])
+shared rank names after  training: set(['Eukaryota', '-', 'Chordata'])
+
+==========> Saving the reference JSON file: ./CytB.refjson
+
+Calculating the speciation rate...
+
+Writing down the reference file...
+
+*** STEP 2: Searching for mislabels ***
+
+Running the leave-one-sequence-out test...
+
+/home/working/media/chrishah/STORAGE/metabarcoding/PHYLOGENETIC_PLACEMENT/Lake_fish/CytB/Reference_DB/3-SATIVA/sativa/raxml//run_raxml.sh -w /home/working/media/chrishah/STORAGE/metabarcoding/PHYLOGENETIC_PLACEMENT/Lake_fish/CytB/Reference_DB/3-SATIVA/sativa/tmp/CytB_1473205651285 -T 5 -s /home/working/media/chrishah/STORAGE/metabarcoding/PHYLOGENETIC_PLACEMENT/Lake_fish/CytB/Reference_DB/3-SATIVA/sativa/tmp/CytB_1473205651285/CytB.refaln -t /home/working/media/chrishah/STORAGE/metabarcoding/PHYLOGENETIC_PLACEMENT/Lake_fish/CytB/Reference_DB/3-SATIVA/sativa/tmp/CytB_1473205651285/ref_CytB.tre --no-seq-check -f O --epa-accumulated-threshold 0.999 -G 0.284090909091 -R /home/working/media/chrishah/STORAGE/metabarcoding/PHYLOGENETIC_PLACEMENT/Lake_fish/CytB/Reference_DB/3-SATIVA/sativa/tmp/CytB_1473205651285/CytB.opt -m GTRCAT -n l1out_seq_CytB --verbose -p 13332
+
+Leave-one-out test identified 31 suspicious sequences; running final EPA test to check them...
+
+/home/working/media/chrishah/STORAGE/metabarcoding/PHYLOGENETIC_PLACEMENT/Lake_fish/CytB/Reference_DB/3-SATIVA/sativa/raxml//run_raxml.sh -w /home/working/media/chrishah/STORAGE/metabarcoding/PHYLOGENETIC_PLACEMENT/Lake_fish/CytB/Reference_DB/3-SATIVA/sativa/tmp/CytB_1473205651285 -T 5 -s /home/working/media/chrishah/STORAGE/metabarcoding/PHYLOGENETIC_PLACEMENT/Lake_fish/CytB/Reference_DB/3-SATIVA/sativa/tmp/CytB_1473205651285/CytB.refaln -t /home/working/media/chrishah/STORAGE/metabarcoding/PHYLOGENETIC_PLACEMENT/Lake_fish/CytB/Reference_DB/3-SATIVA/sativa/tmp/CytB_1473205651285/final_ref_CytB.tre --no-seq-check -f v --epa-accumulated-threshold 0.999 -G 0.284090909091 -m GTRCAT -n final_epa_CytB --verbose -p 326
+
+Mislabeled sequences by rank:
+Order       :	2
+Genus       :	3
+Species     :	19
+
+Total mislabels: 24 / 1.36 %
+
+Results were saved to: /home/working/media/chrishah/STORAGE/metabarcoding/PHYLOGENETIC_PLACEMENT/Lake_fish/CytB/Reference_DB/3-SATIVA/CytB.mis
+Execution log was saved to: /home/working/media/chrishah/STORAGE/metabarcoding/PHYLOGENETIC_PLACEMENT/Lake_fish/CytB/Reference_DB/3-SATIVA/CytB.log
+
+Analysis completed successfully, elapsed time: 1633 seconds (565s reftree, 1068s leave-one-out)
+

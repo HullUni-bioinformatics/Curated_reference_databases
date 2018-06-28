@@ -1,0 +1,247 @@
+
+
+IMPORTANT WARNING: Sequences KM874560.1 and KM874561.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences KM874560.1 and KM874563.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences KM874565.1 and KM874564.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences AJ428497.1 and AJ245839.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences KM874545.1 and KM874544.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences KM874541.1 and KM874537.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EF427617.1 and EU223996.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EF427617.1 and KJ564262.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences KJ564253.1 and KJ564243.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences KM874566.1 and KM874570.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences KC465920.1 and AY331019.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences KC465919.1 and KC465923.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences HQ689888.1 and HQ689886.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences AB368704.1 and AB368703.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences GU135545.1 and GU135542.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences KC238569.1 and GU135602.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences HM000036.1 and JN412532.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences AY191565.1 and KR003441.2 are exactly identical
+
+
+IMPORTANT WARNING: Sequences GU135512.1 and JX183535.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences GU991385.1 and JN412514.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences GU991394.1 and GU991386.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences AB852596.1 and AB852586.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences AB852584.1 and AB852588.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences JN190466.1 and JN190467.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences KT203378.1 and KT203376.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences KT203378.1 and AY497446.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences KT203378.1 and AY497447.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences JN190461.1 and JN190470.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences AB094611.1 and AB094612.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences AB094607.1 and AB094609.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences AB094607.1 and AB094608.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EF525391.1 and EF525420.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EF525391.1 and EF525396.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EF525400.1 and EF525398.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences AY426567.1 and AY426563.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences KJ729077.1 and KJ679504.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences AY828962.1 and KJ513207.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EF455489.1 and KU761855.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences DQ288268.1 and JX960813.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences GU227767.1 and GU227770.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences GU227767.1 and GU227772.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EU444660.1 and EU444626.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences JF798881.1 and JF798880.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences HM117899.1 and HM117898.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences HM117891.1 and HM117890.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences KJ605198.1 and KJ605201.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences KJ605198.1 and EU444612.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences KJ605198.1 and KJ605197.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences GU227742.1 and GU227755.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences GU227742.1 and GU227747.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences KJ605186.1 and KJ605187.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EU444659.1 and EU444663.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences HM117883.1 and HM117889.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EU444625.1 and EU444634.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences KF784839.1 and KF784810.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences HM049965.1 and JX025363.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences KF985670.1 and KF985679.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences KF985670.1 and KF985673.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences AY509827.1 and JQ652365.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences KT279180.1 and KT279182.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences KT279198.1 and KT279196.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences AJ252791.1 and AF421801.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences HM167946.1 and HM167941.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences HM167950.1 and JX974521.1 are exactly identical
+
+IMPORTANT WARNING
+Found 64 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file ../CytB_European-fish_SATIVA_cleaned.alignment.fasta.reduced
+
+
+This is RAxML version 8.0.12 released by Alexandros Stamatakis on March 6 2014.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+David Dao         (KIT)
+Charlie Taylor    (UF)
+
+
+Alignment has 861 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 11.54%
+
+RAxML rapid bootstrapping and subsequent ML search
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+
+Executing 100 rapid bootstrap inferences and thereafter a thorough ML search 
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 861
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC-PTHREADS-SSE3 -f a -m GTRGAMMA -n CytB_European-fish_SATIVA_cleaned -p 512 -s ../CytB_European-fish_SATIVA_cleaned.alignment.fasta -T 8 -x 748 -N 100 
+
+
+
+Time for BS model parameter optimization 27.314326

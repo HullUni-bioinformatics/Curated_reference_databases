@@ -1,0 +1,176 @@
+
+There are 84 gene names (or gene product names) detected
+----------------------------------
+Gene and count sorted by gene name
+----------------------------------
+369 instances of CDS,ATP6
+370 instances of CDS,ATP8
+36 instances of CDS,ATPase 6
+36 instances of CDS,ATPase 8
+1 instances of CDS,atpase6
+4 instances of CDS,ATPase6
+1 instances of CDS,atpase8
+4 instances of CDS,ATPase8
+15 instances of CDS,CO1
+15 instances of CDS,CO2
+15 instances of CDS,CO3
+27 instances of CDS,COI
+1 instances of CDS,coi
+20 instances of CDS,COII
+1 instances of CDS,coii
+18 instances of CDS,COIII
+1 instances of CDS,coiii
+1 instances of CDS,CoIII
+1 instances of CDS,cox1
+314 instances of CDS,COX1
+1 instances of CDS,cox2
+314 instances of CDS,COX2
+1 instances of CDS,cox3
+313 instances of CDS,COX3
+5 instances of CDS,CoxI
+3 instances of CDS,COXI
+5 instances of CDS,CoxII
+3 instances of CDS,COXII
+3 instances of CDS,COXIII
+5 instances of CDS,CoxIII
+3524 instances of CDS,cytb
+71 instances of CDS,CytB
+624 instances of CDS,Cytb
+394 instances of CDS,CYTB
+177 instances of CDS,cytB
+1 instances of CDS,cytochrome oxidase subunit III
+1 instances of CDS,LOC105027676
+1 instances of CDS,NAD-1
+1 instances of CDS,NAD-2
+1 instances of CDS,NAD-4
+1 instances of CDS,NAD-4L
+1 instances of CDS,NAD-5
+1 instances of CDS,NAD-6
+1 instances of CDS,NAD3
+1 instances of CDS,NADH dehydrogenase subunit 6
+3 instances of CDS,NADH-1
+1 instances of CDS,nadh-1
+3 instances of CDS,NADH-2
+1 instances of CDS,nadh-2
+3 instances of CDS,NADH-3
+1 instances of CDS,nadh-3
+3 instances of CDS,NADH-4
+1 instances of CDS,nadh-4
+1 instances of CDS,nadh-4L
+3 instances of CDS,NADH-4L
+3 instances of CDS,NADH-5
+1 instances of CDS,nadh-5
+9 instances of CDS,NADH-6
+1 instances of CDS,nadh-6
+2 instances of CDS,NADH1
+2 instances of CDS,NADH2
+2 instances of CDS,NADH3
+2 instances of CDS,NADH4
+2 instances of CDS,NADH4L
+2 instances of CDS,NADH5
+2 instances of CDS,NADH6
+359 instances of CDS,ND1
+358 instances of CDS,ND2
+408 instances of CDS,ND3
+352 instances of CDS,ND4
+351 instances of CDS,ND4L
+1 instances of CDS,ND4l
+356 instances of CDS,ND5
+354 instances of CDS,ND6
+323 instances of rRNA,12S ribosomal RNA
+4 instances of rRNA,12S rRNA
+323 instances of rRNA,16S ribosomal RNA
+4 instances of rRNA,16S rRNA
+33 instances of rRNA,l-rRNA
+1 instances of rRNA,large subunit ribosomal RNA
+1 instances of rRNA,rrnl
+1 instances of rRNA,rrns
+33 instances of rRNA,s-rRNA
+1 instances of rRNA,small subunit ribosomal RNA
+-------------------------------
+Gene and count sorted by counts
+-------------------------------
+3524 instances of CDS,cytb
+624 instances of CDS,Cytb
+408 instances of CDS,ND3
+394 instances of CDS,CYTB
+370 instances of CDS,ATP8
+369 instances of CDS,ATP6
+359 instances of CDS,ND1
+358 instances of CDS,ND2
+356 instances of CDS,ND5
+354 instances of CDS,ND6
+352 instances of CDS,ND4
+351 instances of CDS,ND4L
+323 instances of rRNA,12S ribosomal RNA
+323 instances of rRNA,16S ribosomal RNA
+314 instances of CDS,COX1
+314 instances of CDS,COX2
+313 instances of CDS,COX3
+177 instances of CDS,cytB
+71 instances of CDS,CytB
+36 instances of CDS,ATPase 6
+36 instances of CDS,ATPase 8
+33 instances of rRNA,l-rRNA
+33 instances of rRNA,s-rRNA
+27 instances of CDS,COI
+20 instances of CDS,COII
+18 instances of CDS,COIII
+15 instances of CDS,CO1
+15 instances of CDS,CO2
+15 instances of CDS,CO3
+9 instances of CDS,NADH-6
+5 instances of CDS,CoxI
+5 instances of CDS,CoxII
+5 instances of CDS,CoxIII
+4 instances of CDS,ATPase6
+4 instances of CDS,ATPase8
+4 instances of rRNA,12S rRNA
+4 instances of rRNA,16S rRNA
+3 instances of CDS,COXI
+3 instances of CDS,COXII
+3 instances of CDS,COXIII
+3 instances of CDS,NADH-1
+3 instances of CDS,NADH-2
+3 instances of CDS,NADH-3
+3 instances of CDS,NADH-4
+3 instances of CDS,NADH-4L
+3 instances of CDS,NADH-5
+2 instances of CDS,NADH1
+2 instances of CDS,NADH2
+2 instances of CDS,NADH3
+2 instances of CDS,NADH4
+2 instances of CDS,NADH4L
+2 instances of CDS,NADH5
+2 instances of CDS,NADH6
+1 instances of CDS,atpase6
+1 instances of CDS,atpase8
+1 instances of CDS,coi
+1 instances of CDS,coii
+1 instances of CDS,coiii
+1 instances of CDS,CoIII
+1 instances of CDS,cox1
+1 instances of CDS,cox2
+1 instances of CDS,cox3
+1 instances of CDS,cytochrome oxidase subunit III
+1 instances of CDS,LOC105027676
+1 instances of CDS,NAD-1
+1 instances of CDS,NAD-2
+1 instances of CDS,NAD-4
+1 instances of CDS,NAD-4L
+1 instances of CDS,NAD-5
+1 instances of CDS,NAD-6
+1 instances of CDS,NAD3
+1 instances of CDS,NADH dehydrogenase subunit 6
+1 instances of CDS,nadh-1
+1 instances of CDS,nadh-2
+1 instances of CDS,nadh-3
+1 instances of CDS,nadh-4
+1 instances of CDS,nadh-4L
+1 instances of CDS,nadh-5
+1 instances of CDS,nadh-6
+1 instances of CDS,ND4l
+1 instances of rRNA,large subunit ribosomal RNA
+1 instances of rRNA,rrnl
+1 instances of rRNA,rrns
+1 instances of rRNA,small subunit ribosomal RNA

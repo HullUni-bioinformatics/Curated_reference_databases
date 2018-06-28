@@ -1,0 +1,60 @@
+dna,CDS,ATPase_6,ATPase 6
+dna,CDS,ATPase_8,ATPase 8
+dna,CDS,CO1,CO1
+dna,CDS,CO2,CO2
+dna,CDS,CO3,CO3
+dna,CDS,COXI,COXI
+dna,CDS,COXII,COXII
+dna,CDS,COXIII,COXIII
+dna,CDS,CoIII,CoIII
+dna,CDS,CoxI,CoxI
+dna,CDS,CoxII,CoxII
+dna,CDS,CoxIII,CoxIII
+dna,CDS,CytB,CytB
+dna,CDS,LOC105027676,LOC105027676
+dna,CDS,MT-ATP6,ATP6,atpase6,ATPase6
+dna,CDS,MT-ATP8,ATP8,atpase8,ATPase8
+dna,CDS,MT-CO1,COI,coi,cox1,COX1
+dna,CDS,MT-CO2,COII,coii,cox2,COX2
+dna,CDS,MT-CO3,COIII,coiii,cox3,COX3
+dna,CDS,MT-CYB,cytb,Cytb,CYTB
+dna,CDS,MT-ND1,NADH1,ND1
+dna,CDS,MT-ND2,NADH2,ND2
+dna,CDS,MT-ND3,NADH3,ND3
+dna,CDS,MT-ND4,NADH4,ND4
+dna,CDS,MT-ND4L,ND4L
+dna,CDS,MT-ND5,NADH5,ND5
+dna,CDS,MT-ND6,NADH dehydrogenase subunit 6,NADH6,ND6
+dna,CDS,NAD-1,NAD-1
+dna,CDS,NAD-2,NAD-2
+dna,CDS,NAD-4,NAD-4
+dna,CDS,NAD-4L,NAD-4L
+dna,CDS,NAD-5,NAD-5
+dna,CDS,NAD-6,NAD-6
+dna,CDS,NAD3,NAD3
+dna,CDS,NADH-1,NADH-1
+dna,CDS,NADH-2,NADH-2
+dna,CDS,NADH-3,NADH-3
+dna,CDS,NADH-4,NADH-4
+dna,CDS,NADH-4L,NADH-4L
+dna,CDS,NADH-5,NADH-5
+dna,CDS,NADH-6,NADH-6
+dna,CDS,NADH4L,NADH4L
+dna,CDS,ND4l,ND4l
+dna,CDS,cytB,cytB
+dna,CDS,cytochrome_oxidase_subunit_III,cytochrome oxidase subunit III
+dna,rRNA,l-rRNA,l-rRNA
+dna,rRNA,large_subunit_ribosomal_RNA,large subunit ribosomal RNA
+dna,CDS,nadh-1,nadh-1
+dna,CDS,nadh-2,nadh-2
+dna,CDS,nadh-3,nadh-3
+dna,CDS,nadh-4,nadh-4
+dna,CDS,nadh-4L,nadh-4L
+dna,CDS,nadh-5,nadh-5
+dna,CDS,nadh-6,nadh-6
+dna,rRNA,rrnL,16S ribosomal RNA,16S rRNA
+dna,rRNA,rrnS,12S ribosomal RNA,12S rRNA
+dna,rRNA,rrnl,rrnl
+dna,rRNA,rrns,rrns
+dna,rRNA,s-rRNA,s-rRNA
+dna,rRNA,small_subunit_ribosomal_RNA,small subunit ribosomal RNA
