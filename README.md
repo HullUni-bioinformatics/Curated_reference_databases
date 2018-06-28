@@ -17,7 +17,8 @@ __Cytb__
 __12S__
 - European freshwater fish by Jianlong Li `GiHub ID` ([JoeJianlongLi](https://github.com/JoeJianlongLi)) and Christoph Hahn `GiHub ID` ([chrishah](https://github.com/chrishah))
 
-- UK amphibians by Lynsey R. Harper `GiHub ID` ([lrharper1](https://github.com/lrharper1)) 
+- ([UK amphibians] (https://github.com/HullUni-bioinformatics/Curated_reference_databases/tree/master/12S_Amphibians)) by Lynsey R. Harper `GiHub ID` ([lrharper1](https://github.com/lrharper1)) 
+
 
 - UK birds by Lynsey R. Harper `GiHub ID` ([lrharper1](https://github.com/lrharper1)) 
 
@@ -26,13 +27,13 @@ __12S__
 - UK mammals by Lynsey R. Harper `GiHub ID` ([lrharper1](https://github.com/lrharper1)) 
 
 
-#Work your way through the notebooks in the individual directories in the following order:
+#Work your way through the notebooks in the individual directories in the following order with slightly changes between the databases:
 
-- 0-convert fasta to gb
-- 1-fetch-and-clean
-- 2-nr
-- 3-SATIVA
-- 4-post_SATIVA
+- Convert_denovo_fasta_to_gb (if you do not have denovo fasta sequences, skip it)
+- fetch-and-clean
+- nr (we sometime combined `fetch-and-clean` and `nr` to `fetch_clean_align` or `fetch_clean_align_tree`
+- SATIVA
+- post_SATIVA
 
 Here the publications have used the curated reference databases in this repository
 
