@@ -37,23 +37,23 @@ __12S__
 
 __Final clean database__
 
-You can find the final clean database which has been labeled by `*SATIVA_cleaned*.gb` ([for example](https://github.com/HullUni-bioinformatics/Curated_reference_databases/blob/master/12S_Amphibians/12S_UKamphibians_SATIVA_cleaned.gb)) in each database
+You can find the final clean database which has been labeled by `*SATIVA_cleaned*.gb` ([for example](https://github.com/HullUni-bioinformatics/Curated_reference_databases/blob/master/12S_Amphibians/12S_UKamphibians_SATIVA_cleaned.gb)) in each database.
 
 
 ## Setting up the environment
 
 To facilitate full reproducibility of our analyses we provide `Jupyter notebooks` illustrating our workflow in this repository.
 
-In the individual directory listed above of each database, you can find the Jupyter notebooks `*.ipynb` ([for example](https://github.com/HullUni-bioinformatics/Curated_reference_databases/blob/master/12S_Amphibians/fetch_clean_align_tree/Amphib_align_clipping.ipynb)) which you can use them for reproducible analysis 
+In the individual directory listed above of each database, you can find the Jupyter notebooks `*.ipynb` ([for example](https://github.com/HullUni-bioinformatics/Curated_reference_databases/blob/master/12S_Amphibians/fetch_clean_align_tree/Amphib_align_clipping.ipynb)) which you can use them for reproducible analysis.
 
 You need the [metaBEAT](https://github.com/HullUni-bioinformatics/metaBEAT) pipeline, which relies on a range of open bioinformatics tools, which we have wrapped up in a self contained docker image which includes all necessary dependencies [here](https://hub.docker.com/r/chrishah/metabeat/).
 
 `metaBEAT` is using a number of external programs. To make your life easier we have created a self contained environment with all necessary pieces of software in a [docker image](https://hub.docker.com/r/chrishah/metabeat/). This image is building on [ReproPhylo](https://hub.docker.com/r/szitenberg/reprophylo/). If you want to use it you'll need Docker installed on your machine. 
 
-The more details about how to install the `Docker` and `metaBEAT`, please go to visit the GiHub repository in [here](https://github.com/HullUni-bioinformatics/metaBEAT)
+The more details about how to install the `Docker` and `metaBEAT`, please go to visit the GiHub repository in [here](https://github.com/HullUni-bioinformatics/metaBEAT).
 
 ## Publications 
-#Here the publications have used the curated reference databases in this repository
+#The publications have used the curated reference databases in this repository
 
 - Hänfling, B., Lawson Handley, L., Read, D.S., Hahn, C., Li, J., Nichols, P., ... Winfield, I.J. (2016) Environmental DNA metabarcoding of lake fish communities reflects long-term data from established survey methods. _Molecular Ecology_, 25, 3101-3119. ([DOI](https://doi.org/10.1111/mec.13660)) ([GiHub](https://github.com/HullUni-bioinformatics/Haenfling_et_al_2016))  
 
