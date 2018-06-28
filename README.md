@@ -34,11 +34,11 @@ __12S__
 - SATIVA
 - post_SATIVA
 
-In the individual directories listed above of each database, you can find the Jupyiter notebooks `*ipynb` ([for example](https://github.com/HullUni-bioinformatics/Curated_reference_databases/blob/master/12S_Amphibians/fetch_clean_align_tree/Amphib_align_clipping.ipynb)) which you can use them for reproducible analysis 
+In the individual directory listed above of each database, you can find the Jupyiter notebooks `*ipynb` ([for example](https://github.com/HullUni-bioinformatics/Curated_reference_databases/blob/master/12S_Amphibians/fetch_clean_align_tree/Amphib_align_clipping.ipynb)) which you can use them for reproducible analysis 
 
-__Final clean database__
+- __Final clean database__
 
-You can find the final clean database which has been labeled by `*SATIVA_cleaned*.gb ([for example](https://github.com/HullUni-bioinformatics/Curated_reference_databases/blob/master/12S_Amphibians/12S_UKamphibians_SATIVA_cleaned.gb)) in each database
+You can find the final clean database which has been labeled by `*SATIVA_cleaned*.gb` ([for example](https://github.com/HullUni-bioinformatics/Curated_reference_databases/blob/master/12S_Amphibians/12S_UKamphibians_SATIVA_cleaned.gb)) in each database
 
 
 
