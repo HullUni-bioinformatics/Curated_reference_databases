@@ -11,20 +11,20 @@ Currently, we have completed the curated reference databases of mitochondrial `1
 
 __Cytb__
 
-- European freshwater fish by Christoph Hahn `GiHub ID` ([chrishah](https://github.com/chrishah))
+- [European freshwater fish](https://github.com/HullUni-bioinformatics/Curated_reference_databases/tree/master/Cytb_Fish) by Christoph Hahn `GiHub ID` [chrishah](https://github.com/chrishah)
 
 
 __12S__
-- European freshwater fish by Jianlong Li `GiHub ID` ([JoeJianlongLi](https://github.com/JoeJianlongLi)) and Christoph Hahn `GiHub ID` ([chrishah](https://github.com/chrishah))
+- [European freshwater fish](https://github.com/HullUni-bioinformatics/Curated_reference_databases/tree/master/12S_Fish) by Jianlong Li `GiHub ID` [JoeJianlongLi](https://github.com/JoeJianlongLi)) and Christoph Hahn `GiHub ID` [chrishah](https://github.com/chrishah)
 
-- ([UK amphibians](https://github.com/HullUni-bioinformatics/Curated_reference_databases/tree/master/12S_Amphibians)) by Lynsey R. Harper `GiHub ID` ([lrharper1](https://github.com/lrharper1)) 
+- [UK amphibians](https://github.com/HullUni-bioinformatics/Curated_reference_databases/tree/master/12S_Amphibians) by Lynsey R. Harper `GiHub ID` [lrharper1](https://github.com/lrharper1)
 
 
-- UK birds by Lynsey R. Harper `GiHub ID` ([lrharper1](https://github.com/lrharper1)) 
+- [UK birds](https://github.com/HullUni-bioinformatics/Curated_reference_databases/tree/master/12S_Birds) by Lynsey R. Harper `GiHub ID` [lrharper1](https://github.com/lrharper1)
 
-- UK reptiles by Lynsey R. Harper `GiHub ID` ([lrharper1](https://github.com/lrharper1)) 
+- [UK reptiles](https://github.com/HullUni-bioinformatics/Curated_reference_databases/tree/master/12S_Reptiles) by Lynsey R. Harper `GiHub ID` [lrharper1](https://github.com/lrharper1)
 
-- UK mammals by Lynsey R. Harper `GiHub ID` ([lrharper1](https://github.com/lrharper1)) 
+- [UK mammals](https://github.com/HullUni-bioinformatics/Curated_reference_databases/tree/master/12S_Mammals) by Lynsey R. Harper `GiHub ID` [lrharper1](https://github.com/lrharper1)
 
 
 #Work your way through the notebooks in the individual directories in the following order with slightly changes between the databases:
