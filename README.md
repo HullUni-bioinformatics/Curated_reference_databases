@@ -3,18 +3,18 @@
 This repository contains the complete description of how we produced the curated reference databases for the studies in Evolutionary and Environmental Genomics Group ([@EvoHull](https://twitter.com/EVOHULL))
 
 
-Currently, we have completed the curated reference databases of mitochondrial `__12S__ `and` __Cytb__` including European freshwater fish, UK amphibians, UK birds, UK reptiles and UK mammals.
+Currently, we have completed the curated reference databases of mitochondrial `12S `and `Cytb` including European freshwater fish, UK amphibians, UK birds, UK reptiles and UK mammals.
 
 ##Contents
 
 #The contributors for each database as below:
 
-`__Cytb__`
+__Cytb__
 
 - European freshwater fish by Christoph Hahn `GiHub ID` ([chrishah](https://github.com/chrishah))
 
 
-`__12S__`
+__12S__
 - European freshwater fish by Jianlong Li `GiHub ID` ([JoeJianlongLi](https://github.com/JoeJianlongLi)) and Christoph Hahn `GiHub ID` ([chrishah](https://github.com/chrishah))
 
 - UK amphibians by Lynsey R. Harper `GiHub ID` ([lrharper1](https://github.com/lrharper1)) 
