@@ -35,7 +35,7 @@ __12S__
 - post_SATIVA
 
 
-- __Final clean database__
+__Final clean database__
 
 You can find the final clean database which has been labeled by `*SATIVA_cleaned*.gb` ([for example](https://github.com/HullUni-bioinformatics/Curated_reference_databases/blob/master/12S_Amphibians/12S_UKamphibians_SATIVA_cleaned.gb)) in each database
 
