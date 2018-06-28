@@ -34,7 +34,7 @@ __12S__
 - SATIVA
 - post_SATIVA
 
-In the individual directory listed above of each database, you can find the Jupyiter notebooks `*ipynb` ([for example](https://github.com/HullUni-bioinformatics/Curated_reference_databases/blob/master/12S_Amphibians/fetch_clean_align_tree/Amphib_align_clipping.ipynb)) which you can use them for reproducible analysis 
+In the individual directory listed above of each database, you can find the Jupyiter notebooks `*.ipynb` ([for example](https://github.com/HullUni-bioinformatics/Curated_reference_databases/blob/master/12S_Amphibians/fetch_clean_align_tree/Amphib_align_clipping.ipynb)) which you can use them for reproducible analysis 
 
 - __Final clean database__
 
