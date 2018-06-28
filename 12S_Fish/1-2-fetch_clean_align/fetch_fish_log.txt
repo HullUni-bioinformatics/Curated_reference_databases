@@ -1,0 +1,95 @@
+
+metaBEAT may be querying NCBI's Entrez databases to fetch/verify taxonomic ids. Entrez User requirements state that you need to identify yourself by providing an email address so that NCBI can contact you in case there is a problem.
+
+You have specified: 'haikuilee@gmail.com'
+
+
+QUERYING GENBANK
+
+check for synonyms for "12S" (this is relevant only for Genbank searches)
+
+fetching accessions ..
+
+#	Abramis brama	3
+#	Acipenser sturio	10
+#	Alburnoides bipunctatus	1
+#	Alburnus alburnus	3
+#	Alosa alosa	2
+#	Alosa fallax	3
+#	Ambloplites rupestris	3
+#	Ameiurus melas	5
+#	Ameiurus nebulosus	5
+#	Anguilla anguilla	59
+#	Aspius aspius	0
+#	Barbatula barbatula	2
+#	Barbus barbus	3
+#	Blicca bjoerkna	4
+#	Carassius auratus	95
+#	Carassius carassius	3
+#	Chondrostoma nasus	2
+#	Cobitis taenia	4
+#	Coregonus albula	0
+#	Coregonus autumnalis	2
+#	Coregonus lavaretus	80
+#	Coregonus oxyrinchus	22
+#	Cottus gobio	1
+#	Ctenopharyngodon idella	9
+#	Cyprinus carpio	47
+#	Esox lucius	12
+#	Gasterosteus aculeatus	13
+#	Gobio gobio	2
+#	Gymnocephalus cernua	3
+#	Hypophthalmichthys molitrix	101
+#	Hypophthalmichthys nobilis	46
+#	Lampetra fluviatilis	2
+#	Lampetra planeri	0
+#	Lepomis gibbosus	5
+#	Leucaspius delineatus	2
+#	Leuciscus cephalus	3
+#	Leuciscus idus	2
+#	Leuciscus leuciscus	1
+#	Lota lota	10
+#	Micropterus salmoides	10
+#	Misgurnus bipartitus	1
+#	Misgurnus fossilis	0
+#	Neogobius fluviatilis	0
+#	Neogobius melanostomus	6
+#	Oncorhynchus gorbuscha	6
+#	Oncorhynchus mykiss	83
+#	Osmerus eperlanus	3
+#	Perca fluviatilis	18
+#	Petromyzon marinus	1
+#	Phoxinus phoxinus	7
+#	Pimephales promelas	19
+#	Platichthys flesus	5
+#	Pomatoschistus minutus	4
+#	Ponticola kessleri	3
+#	Proterorhinus semilunaris	0
+#	Pseudorasbora parva	8
+#	Pungitius pungitius	17
+#	Rhodeus amarus	4
+#	Rhodeus sericeus	4
+#	Rutilus rutilus	9
+#	Salmo salar	43
+#	Salmo trutta	27
+#	Salvelinus alpinus	18
+#	Salvelinus fontinalis	4
+#	Sander lucioperca	7
+#	Scardinius erythrophthalmus	3
+#	Silurus glanis	2
+#	Solea solea	5
+#	Squalius cephalus	3
+#	Thymallus thymallus	5
+#	Tinca tinca	4
+#	Umbra pygmaea	2
+#	Vimba vimba	0
+
+total number of accessions fetched: 898
+
+
+downloading 898 records .. processing 1000 accessions per batch
+
+[Tue May 09 2017 16:35:00]	batch: 0000001	898 unique records downloaded	-> fish_12S_Genbank_raw.0000001.gb	(total: 898 (100.00 %); remaining: 0 -> DONE!)
+
+Concatenate all files	-> fish_12S_Genbank_raw.gb
+
