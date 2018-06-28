@@ -5,9 +5,12 @@ This repository contains the complete description of how we produced the curated
 Currently, we have completed the curated reference databases of mitochondrial __12S__ and __Cytb__ including European freshwater fish, amphibians, birds, reptiles and mammals.
 
 ##Contents
+
 __The contributors for each database as below:__
+
 __Cytb__
-- European freshwater fish by Christoph Hahn (GiHub ID ([chrishah] (https://github.com/chrishah)))
+
+- European freshwater fish by Christoph Hahn GiHub ID ([chrishah](https://github.com/chrishah))
 
 
 __12S__
