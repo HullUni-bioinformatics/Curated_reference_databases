@@ -15,10 +15,9 @@ __Cytb__
 
 
 __12S__
-- [European freshwater fish](https://github.com/HullUni-bioinformatics/Curated_reference_databases/tree/master/12S_Fish) by Jianlong Li `GiHub ID` [JoeJianlongLi](https://github.com/JoeJianlongLi)) and Christoph Hahn `GiHub ID` [chrishah](https://github.com/chrishah)
+- [European freshwater fish](https://github.com/HullUni-bioinformatics/Curated_reference_databases/tree/master/12S_Fish) by Jianlong Li `GiHub ID` [JoeJianlongLi](https://github.com/JoeJianlongLi) and Christoph Hahn `GiHub ID` [chrishah](https://github.com/chrishah)
 
 - [UK amphibians](https://github.com/HullUni-bioinformatics/Curated_reference_databases/tree/master/12S_Amphibians) by Lynsey R. Harper `GiHub ID` [lrharper1](https://github.com/lrharper1)
-
 
 - [UK birds](https://github.com/HullUni-bioinformatics/Curated_reference_databases/tree/master/12S_Birds) by Lynsey R. Harper `GiHub ID` [lrharper1](https://github.com/lrharper1)
 
