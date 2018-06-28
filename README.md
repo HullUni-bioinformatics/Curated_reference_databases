@@ -28,9 +28,9 @@ __12S__
 
 #Work your way through the notebooks in the individual directories in the following order with slightly changes between the databases:
 
-- Convert_denovo_fasta_to_gb (if you do not have denovo fasta sequences, skip it)
+- Convert_denovo_fasta_to_gb (If you do not have denovo fasta sequences, skip it)
 - fetch-and-clean
-- nr (we sometime combined `fetch-and-clean` and `nr` to `fetch_clean_align` or `fetch_clean_align_tree`)
+- nr (We sometime combined `fetch-and-clean` and `nr` to `fetch_clean_align` or `fetch_clean_align_tree`)
 - SATIVA
 - post_SATIVA
 
