@@ -41,6 +41,15 @@ In the individual directory listed above of each database, you can find the Jupy
 You can find the final clean database which has been labeled by `*SATIVA_cleaned*.gb` ([for example](https://github.com/HullUni-bioinformatics/Curated_reference_databases/blob/master/12S_Amphibians/12S_UKamphibians_SATIVA_cleaned.gb)) in each database
 
 
+## Setting up the environment
+
+To facilitate full reproducibility of our analyses we provide Jupyter notebooks illustrating our workflow in this repository.
+
+You need the [metaBEAT](https://github.com/HullUni-bioinformatics/metaBEAT) pipeline, which relies on a range of open bioinformatics tools, which we have wrapped up in a self contained docker image which includes all necessary dependencies [here](https://hub.docker.com/r/chrishah/metabeat/).
+
+`metaBEAT` is using a number of external programs. To make your life easier we have created a self contained environment with all necessary pieces of software in a [docker image](https://hub.docker.com/r/chrishah/metabeat/). This image is building on [ReproPhylo](https://hub.docker.com/r/szitenberg/reprophylo/). If you want to use it you'll need Docker installed on your machine. 
+
+The more details about how to install the `Docker` and `metaBEAT`, please go to visit the GiHub repository in [here](https://github.com/HullUni-bioinformatics/metaBEAT)
 
 ## Publications 
 #Here the publications have used the curated reference databases in this repository
