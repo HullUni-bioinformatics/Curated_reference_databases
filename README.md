@@ -11,19 +11,19 @@ Currently, we have completed the curated reference databases of mitochondrial `1
 
 __Cytb__
 
-- [European freshwater fish](https://github.com/HullUni-bioinformatics/Curated_reference_databases/tree/master/Cytb_Fish) by Christoph Hahn `GiHub ID` [chrishah](https://github.com/chrishah)
+- [European freshwater fish](https://github.com/HullUni-bioinformatics/Curated_reference_databases/tree/master/Cytb_Fish) by Christoph Hahn `GitHub ID` [chrishah](https://github.com/chrishah)
 
 
 __12S__
-- [European freshwater fish](https://github.com/HullUni-bioinformatics/Curated_reference_databases/tree/master/12S_Fish) by Jianlong Li `GiHub ID` [JoeJianlongLi](https://github.com/JoeJianlongLi) and Christoph Hahn `GiHub ID` [chrishah](https://github.com/chrishah)
+- [European freshwater fish](https://github.com/HullUni-bioinformatics/Curated_reference_databases/tree/master/12S_Fish) by Jianlong Li `GitHub ID` [JoeJianlongLi](https://github.com/JoeJianlongLi) and Christoph Hahn `GitHub ID` [chrishah](https://github.com/chrishah)
 
-- [UK amphibians](https://github.com/HullUni-bioinformatics/Curated_reference_databases/tree/master/12S_Amphibians) by Lynsey R. Harper `GiHub ID` [lrharper1](https://github.com/lrharper1)
+- [UK amphibians](https://github.com/HullUni-bioinformatics/Curated_reference_databases/tree/master/12S_Amphibians) by Lynsey R. Harper `GitHub ID` [lrharper1](https://github.com/lrharper1)
 
-- [UK birds](https://github.com/HullUni-bioinformatics/Curated_reference_databases/tree/master/12S_Birds) by Lynsey R. Harper `GiHub ID` [lrharper1](https://github.com/lrharper1)
+- [UK birds](https://github.com/HullUni-bioinformatics/Curated_reference_databases/tree/master/12S_Birds) by Lynsey R. Harper `GitHub ID` [lrharper1](https://github.com/lrharper1)
 
-- [UK reptiles](https://github.com/HullUni-bioinformatics/Curated_reference_databases/tree/master/12S_Reptiles) by Lynsey R. Harper `GiHub ID` [lrharper1](https://github.com/lrharper1)
+- [UK reptiles](https://github.com/HullUni-bioinformatics/Curated_reference_databases/tree/master/12S_Reptiles) by Lynsey R. Harper `GitHub ID` [lrharper1](https://github.com/lrharper1)
 
-- [UK mammals](https://github.com/HullUni-bioinformatics/Curated_reference_databases/tree/master/12S_Mammals) by Lynsey R. Harper `GiHub ID` [lrharper1](https://github.com/lrharper1)
+- [UK mammals](https://github.com/HullUni-bioinformatics/Curated_reference_databases/tree/master/12S_Mammals) by Lynsey R. Harper `GitHub ID` [lrharper1](https://github.com/lrharper1)
 
 
 #Work your way through the notebooks in the individual directories in the following order with slightly changes between the databases:
@@ -50,16 +50,16 @@ You need the [metaBEAT](https://github.com/HullUni-bioinformatics/metaBEAT) pipe
 
 `metaBEAT` is using a number of external programs. To make your life easier we have created a self contained environment with all necessary pieces of software in a [docker image](https://hub.docker.com/r/chrishah/metabeat/). This image is building on [ReproPhylo](https://hub.docker.com/r/szitenberg/reprophylo/). If you want to use it you'll need Docker installed on your machine. 
 
-The more details about how to install the `Docker` and `metaBEAT`, please go to visit the GiHub repository in [here](https://github.com/HullUni-bioinformatics/metaBEAT).
+The more details about how to install the `Docker` and `metaBEAT`, please go to visit the GitHub repository in [here](https://github.com/HullUni-bioinformatics/metaBEAT).
 
 ## Publications 
 #The publications have used the curated reference databases in this repository
 
-- Hänfling, B., Lawson Handley, L., Read, D.S., Hahn, C., Li, J., Nichols, P., ... Winfield, I.J. (2016) Environmental DNA metabarcoding of lake fish communities reflects long-term data from established survey methods. _Molecular Ecology_, 25, 3101-3119. ([DOI](https://doi.org/10.1111/mec.13660)) ([GiHub](https://github.com/HullUni-bioinformatics/Haenfling_et_al_2016))  
+- Hänfling, B., Lawson Handley, L., Read, D.S., Hahn, C., Li, J., Nichols, P., ... Winfield, I.J. (2016) Environmental DNA metabarcoding of lake fish communities reflects long-term data from established survey methods. _Molecular Ecology_, 25, 3101-3119. ([DOI](https://doi.org/10.1111/mec.13660)) ([GitHub](https://github.com/HullUni-bioinformatics/Haenfling_et_al_2016))  
 
-- Harper, L.R., Lawson Handley, L., Hahn, C., Boonham, N., Rees, H.C., Gough, K.C., ... Hänfling, B. (2018) Needle in a haystack? A comparison of eDNA metabarcoding and targeted qPCR for detection of the great crested newt (_Triturus cristatus_). _Ecology and Evolution_, 00, 1-12. ([DOI](https://doi.org/10.1002/ece3.4013)) ([GiHub](https://github.com/HullUni-bioinformatics/Harper_et_al_2018)) 
+- Harper, L.R., Lawson Handley, L., Hahn, C., Boonham, N., Rees, H.C., Gough, K.C., ... Hänfling, B. (2018) Needle in a haystack? A comparison of eDNA metabarcoding and targeted qPCR for detection of the great crested newt (_Triturus cristatus_). _Ecology and Evolution_, 00, 1-12. ([DOI](https://doi.org/10.1002/ece3.4013)) ([GitHub](https://github.com/HullUni-bioinformatics/Harper_et_al_2018)) 
 
-- Li, J., Lawson Handley, L.J., Read, D.S. & Hänfling, B. (2018) The effect of filtration method on the efficiency of environmental DNA capture and quantification via metabarcoding. _Molecular Ecology Resources_, n/a. ([DOI](https://doi.org/10.1111/1755-0998.12899)) ([GiHub](https://github.com/HullUni-bioinformatics/Li_et_al_2018_eDNA_filtration))  
+- Li, J., Lawson Handley, L.J., Read, D.S. & Hänfling, B. (2018) The effect of filtration method on the efficiency of environmental DNA capture and quantification via metabarcoding. _Molecular Ecology Resources_, n/a. ([DOI](https://doi.org/10.1111/1755-0998.12899)) ([GitHub](https://github.com/HullUni-bioinformatics/Li_et_al_2018_eDNA_filtration))  
 
 - Sellers, G.S., Di Muri, C., Gomez, A. & Hänfling, B. (in press) Mu-DNA: a modular universal DNA extraction method adaptable for a wide range of sample types. _Metabarcoding and Metagenomics_ ([OSF](https://osf.io/vrb4a/)) 
 
