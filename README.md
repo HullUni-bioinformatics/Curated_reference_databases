@@ -59,6 +59,6 @@ The more details about how to install the `Docker` and `metaBEAT`, please go to 
 
 - Harper, L.R., Lawson Handley, L., Hahn, C., Boonham, N., Rees, H.C., Gough, K.C., ... Hänfling, B. (2018) Needle in a haystack? A comparison of eDNA metabarcoding and targeted qPCR for detection of the great crested newt (_Triturus cristatus_). _Ecology and Evolution_, 00, 1-12. ([DOI](https://doi.org/10.1002/ece3.4013)) ([GitHub](https://github.com/HullUni-bioinformatics/Harper_et_al_2018)) 
 
-- Li, J., Lawson Handley, L.J., Read, D.S. & Hänfling, B. (2018) The effect of filtration method on the efficiency of environmental DNA capture and quantification via metabarcoding. _Molecular Ecology Resources_, n/a. ([DOI](https://doi.org/10.1111/1755-0998.12899)) ([GitHub](https://github.com/HullUni-bioinformatics/Li_et_al_2018_eDNA_filtration))  
+- Li, J., Lawson Handley, L.J., Read, D.S. & Hänfling, B. (2018) The effect of filtration method on the efficiency of environmental DNA capture and quantification via metabarcoding. _Molecular Ecology Resources_, 18, 1102-1114. ([DOI](https://doi.org/10.1111/1755-0998.12899)) ([GitHub](https://github.com/HullUni-bioinformatics/Li_et_al_2018_eDNA_filtration))  
 
 - Sellers, G.S., Di Muri, C., Gomez, A. & Hänfling, B. (2018) Mu-DNA: a modular universal DNA extraction method adaptable for a wide range of sample types. _Metabarcoding and Metagenomics_, 2: e24556. ([DOI](https://mbmg.pensoft.net/articles.php?id=24556)) ([OSF](https://osf.io/vrb4a/)) 
