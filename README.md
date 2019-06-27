@@ -65,6 +65,6 @@ The more details about how to install the `Docker` and `metaBEAT`, please go to 
 
 - Li, J., Li, J, Hatton‐Ellis, T.W., Lawson Handley, L.J.,... Hänfling, B. (2019) Ground‐truthing of a fish‐based environmental DNA metabarcoding method for assessing the quality of lakes. _Journal of Applied Ecology_, 56, 1232–1244. ([DOI](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.13352)) ([GitHub](https://github.com/HullUni-bioinformatics/Li_et_al_2019_eDNA_fish_monitoring))
 
-- Lawson Handley, L.J., Read, D.S., Winfield, I.J., ... Hänfling, B. - Temporal and spatial variation in distribution of fish environmental DNA in England’s largest lake. _Environmental DNA_, 1, 26-39. ([DOI](https://onlinelibrary.wiley.com/doi/abs/10.1002/edn3.5)) ([GitHub](https://github.com/HullUni-bioinformatics/Handley_et_al_2019))
+- Lawson Handley, L.J., Read, D.S., Winfield, I.J., ... Hänfling, B. (2019) Temporal and spatial variation in distribution of fish environmental DNA in England’s largest lake. _Environmental DNA_, 1, 26-39. ([DOI](https://onlinelibrary.wiley.com/doi/abs/10.1002/edn3.5)) ([GitHub](https://github.com/HullUni-bioinformatics/Handley_et_al_2019))
 
 - Li, J., Lawson Handley, L.J., Harper, L.R.,... Hänfling, B. (2019) Limited dispersion and quick degradation of environmental DNA in fish ponds inferred by metabarcoding. _Environmental DNA_, 00, 1-13. ([DOI](https://onlinelibrary.wiley.com/doi/full/10.1002/edn3.24)) ([GitHub](https://github.com/HullUni-bioinformatics/Li_et_al_2019_eDNA_dynamic))
